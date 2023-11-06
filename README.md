@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on what i'm intrested in above
 - 📫 How to reach me ?:
-      _instagram: hicham_elabbassi_tkd
-whatsapp: +212 672537415
+      "instagram": hicham_elabbassi_tkd
+"whatsapp": +212 672537415
 
 <!---
 hichamnecrofear/hichamnecrofear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
