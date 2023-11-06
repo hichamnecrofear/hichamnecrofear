@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on what i'm intrested in above
 - 📫 How to reach me ?:
       _instagram: hicham_elabbassi_tkd
-      _whatsapp: +212 672537415
+whatsapp: +212 672537415
 
 <!---
 hichamnecrofear/hichamnecrofear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
